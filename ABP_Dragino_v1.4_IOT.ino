@@ -1,7 +1,7 @@
 /* ************************************************************** 
  * Arduino sketch LoraWAN Node DHT11 Temp and Hum .
  * Author: Nikolai Manchev
- * Organization: Eniware Open Source
+ * Organisation: Eniware Open Source
  * Dragino v1.4 + X1276 + DHT11
  * 
  * *************************************************************/
