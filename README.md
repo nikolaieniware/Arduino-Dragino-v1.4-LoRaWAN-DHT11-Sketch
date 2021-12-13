@@ -5,6 +5,11 @@ Node-Red Flow:
 
 ![Screenshot_1](https://user-images.githubusercontent.com/36404591/145826200-595fe195-9f06-4ad9-abb4-a776e8710db8.png)
 
+Node-Red UI:
+
+![Screenshot_4](https://user-images.githubusercontent.com/36404591/145829667-c0cc2d91-0a7f-4393-a038-cee024d64d20.png)
+
+
 Grafana Dashboard:
 
 ![Screenshot_3](https://user-images.githubusercontent.com/36404591/145827694-af463c61-f4cd-4cf9-967d-39d4e7fe3153.png)
