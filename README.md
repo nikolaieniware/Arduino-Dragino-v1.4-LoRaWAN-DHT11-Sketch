@@ -1,5 +1,5 @@
 # Arduino-dragino-v1.4-BG-sketch
-Sketch for Adruino UNO plut lorawan Shield Dragino v1.4 + DHT11 sensor for temperature and humidity. Also added flow for Node-Red to visualise the value of temperature and humidity. Via MQTT the value is safe in Influxdb database for easier visualisation in Grafana. Authentication metod is ABP for this example.(Not test the OTAA yet). To decode the payload from gateway use the file with decoder for this example.
+Sketch for Adruino UNO plus LoRaWAN Shield Dragino v1.4 + DHT11 sensor for Temperature and Humidity. Also added a flow for Node-Red to visualise the value of Temperature and Humidity.The value is safe in Influxdb database for easier visualisation in Grafana. Authentication metod is ABP for this example.(Not test the OTAA yet). To decode the payload from gateway use the file with decoder for this example. For testing, the node and Gateway are very close each other.
 
 Node-Red Flow:
 
